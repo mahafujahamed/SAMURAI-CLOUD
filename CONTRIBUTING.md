@@ -37,3 +37,9 @@ To add your name to the list of contributors, follow this format:
 - GitHub: Jatamer (https://github.com/shresritik)
 - LinkedIn: https://www.linkedin.com/in/ritik-shrestha-35043627b/
 - What I want to do before I die: Be rich
+
+- Name: Mahafuj Ahamed (https://github.com/mahafujahamed)
+- Location: Dhaka, Bangladesh.
+- GitHub: mahafujahamed (https://github.com/mahafujahamed)
+- LinkedIn: https://www.linkedin.com/in/mahafuj-python/
+- What I want to do before I die: To do great work.
